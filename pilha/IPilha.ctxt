@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=IPilha
+comment1.params=
+comment1.target=java.lang.Object\ topo()
+comment2.params=
+comment2.target=java.lang.Object\ remover()
+comment3.params=paramObject
+comment3.target=boolean\ inserir(java.lang.Object)
+comment4.params=
+comment4.target=boolean\ estaVazia()
+comment5.params=
+comment5.target=boolean\ estaCheia()
+numComments=6

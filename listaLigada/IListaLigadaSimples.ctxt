@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=IListaLigadaSimples
+comment1.params=paramObject
+comment1.target=void\ inserirInicio(java.lang.Object)
+comment2.params=paramObject
+comment2.target=void\ inserirFim(java.lang.Object)
+comment3.params=
+comment3.target=boolean\ estaVazia()
+comment4.params=
+comment4.target=No\ removerInicio()
+comment5.params=
+comment5.target=No\ removerFim()
+numComments=6

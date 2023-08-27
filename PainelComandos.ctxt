@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PainelComandos
+comment0.text=\r\n\ PainelComandos\r\n\ \r\n\ @author\ Andr\u00E9\ Cavalcanti\ Teles\ dos\ Santos\ RA00321629\r\n\ @author\ Jo\u00E3o\ Marcos\ Ribeirete\ Garbelini\ RA00321617\r\n\ @author\ Mateus\ Neves\ Er\u00E9dia\ RA00318954\r\n\ @author\ Vitor\ Assun\u00E7\u00E3o\ Silva\ RA00320255\r\n\ @version\ 19/06/2023\r\n
+comment1.params=janelaPrincipal
+comment1.target=void\ setJanelaPrincipal(javax.swing.JFrame)
+comment2.params=
+comment2.target=javax.swing.JFrame\ getJanelaPrincipal()
+comment3.params=janelaPrincipal
+comment3.target=PainelComandos(javax.swing.JFrame)
+comment4.params=
+comment4.target=void\ inserirPainelComandos()
+comment4.text=\r\n\ M\u00E9todo\ inserirPainelComandos\ -\ configura\u00E7oes\ dos\ comandos\ na\ parte\ grafica\r\n\r\n
+numComments=5

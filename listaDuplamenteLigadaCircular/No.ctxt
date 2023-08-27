@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=No
+comment1.params=conteudo\ cod
+comment1.target=No(java.lang.Object,\ int)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=conteudo
+comment2.target=void\ setConteudo(java.lang.Object)
+comment3.params=proximo
+comment3.target=void\ setProximo(No)
+comment4.params=cod
+comment4.target=void\ setCod(int)
+comment5.params=anterior
+comment5.target=void\ setAnterior(No)
+comment6.params=
+comment6.target=java.lang.Object\ getConteudo()
+comment7.params=
+comment7.target=No\ getProximo()
+comment8.params=
+comment8.target=No\ getAnterior()
+comment9.params=
+comment9.target=int\ getCod()
+numComments=11
